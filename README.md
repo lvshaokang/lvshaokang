@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Red. 👋
+
+🌱 One Small Step A Day!
+
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lvshaokang&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvshaokang&hide_border=true">
+</div>
 
 <!--
 **lvshaokang/lvshaokang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
